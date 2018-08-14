@@ -1,0 +1,33 @@
+{
+  "name": "smooth-scroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maycon-Santos/smooth-scroll.git"
+  },
+  "author": "Maycon Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maycon-Santos/smooth-scroll/issues"
+  },
+  "homepage": "https://github.com/Maycon-Santos/smooth-scroll#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify": "^3.1.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "hoek": "^5.0.3"
+  }
+}

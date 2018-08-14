@@ -1,0 +1,27 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.container h1{
+    font-size: 106px;
+    font-weight: 900;
+    line-height: 0;
+    margin-top: 200px;
+}
+
+.container h2{
+    line-height: 0;
+    margin-top: -15px;
+    margin-bottom: 50px;
+    margin-left: 496px;
+}
+
+.container p{
+    text-align: justify;
+}
