@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Maycon-Santos/smooth-scroll#readme",
   "dependencies": {
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.5"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
